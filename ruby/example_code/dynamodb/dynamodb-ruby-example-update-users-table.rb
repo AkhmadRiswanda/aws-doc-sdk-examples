@@ -1,3 +1,14 @@
+#snippet-comment:[These are tags for the AWS doc team's sample catalog. Do not remove.]
+#snippet-sourceauthor:[Doug-AWS]
+#snippet-sourcedescription:[Updates the items in a DynamoDB table with a new attribute.]
+#snippet-keyword:[Amazon DynamoDB]
+#snippet-keyword:[table function]
+#snippet-keyword:[table.scan function]
+#snippet-keyword:[table.update_item function]
+#snippet-keyword:[Ruby]
+#snippet-service:[dynamodb]
+#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #
 # This file is licensed under the Apache License, Version 2.0 (the "License").
