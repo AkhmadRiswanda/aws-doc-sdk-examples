@@ -2,11 +2,11 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Gets information about all of your CodeBuild builds.]
 #snippet-keyword:[AWS CodeBuild]
-#snippet-keyword:[list_builds function]
-#snippet-keyword:[batch_get_builds function]
+#snippet-keyword:[list_builds method]
+#snippet-keyword:[batch_get_builds method]
 #snippet-keyword:[Ruby]
 #snippet-service:[codebuild]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #

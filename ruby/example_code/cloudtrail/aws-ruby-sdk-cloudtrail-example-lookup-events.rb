@@ -2,10 +2,10 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Lists your CloudTrail events.]
 #snippet-keyword:[AWS CloudTrail]
-#snippet-keyword:[lookup_events function]
+#snippet-keyword:[lookup_events method]
 #snippet-keyword:[Ruby]
 #snippet-service:[cloudtrail]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #

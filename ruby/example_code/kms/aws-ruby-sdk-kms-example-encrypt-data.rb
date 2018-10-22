@@ -2,7 +2,7 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Encrypts a string.]
 #snippet-keyword:[AWS Key Management Service]
-#snippet-keyword:[encrypt function]
+#snippet-keyword:[encrypt method]
 #snippet-keyword:[Ruby]
 #snippet-service:[kms]
 #snippet-sourcetype:[full-example]

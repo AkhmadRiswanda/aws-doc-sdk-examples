@@ -2,10 +2,10 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Creates a CloudWatch alarm.]
 #snippet-keyword:[Amazon CloudWatch]
-#snippet-keyword:[put_metric_alarm function]
+#snippet-keyword:[put_metric_alarm method]
 #snippet-keyword:[Ruby]
 #snippet-service:[cloudwatch]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #

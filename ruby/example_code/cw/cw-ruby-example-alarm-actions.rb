@@ -2,11 +2,11 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Enables an action for a CloudWatch alarm and then disables all actions for the alarm.]
 #snippet-keyword:[Amazon CloudWatch]
-#snippet-keyword:[disable_alarm_actions function]
-#snippet-keyword:[put_metric_alarm function]
+#snippet-keyword:[disable_alarm_actions method]
+#snippet-keyword:[put_metric_alarm method]
 #snippet-keyword:[Ruby]
 #snippet-service:[cloudwatch]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #

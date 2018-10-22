@@ -2,10 +2,10 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Creates an access key and secret key for an IAM user.]
 #snippet-keyword:[AWS Identity and Access Management]
-#snippet-keyword:[user function]
+#snippet-keyword:[user method]
 #snippet-keyword:[Ruby]
 #snippet-service:[iam]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #

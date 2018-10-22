@@ -2,7 +2,7 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Gets the state of a specific instance.]
 #snippet-keyword:[Amazon Elastic Compute Cloud]
-#snippet-keyword:[instance function]
+#snippet-keyword:[instance method]
 #snippet-keyword:[Ruby]
 #snippet-service:[ec2]
 #snippet-sourcetype:[full-example]

@@ -2,7 +2,7 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Gets the names and IDs of EC2 instances with the specified group tag.]
 #snippet-keyword:[Amazon Elastic Compute Cloud]
-#snippet-keyword:[instances function]
+#snippet-keyword:[instances method]
 #snippet-keyword:[Ruby]
 #snippet-service:[ec2]
 #snippet-sourcetype:[full-example]

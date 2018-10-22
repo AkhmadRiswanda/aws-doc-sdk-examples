@@ -2,7 +2,7 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Creates a customer master key using KMS.]
 #snippet-keyword:[AWS Key Management Service]
-#snippet-keyword:[create_key function]
+#snippet-keyword:[create_key method]
 #snippet-keyword:[Ruby]
 #snippet-service:[kms]
 #snippet-sourcetype:[full-example]

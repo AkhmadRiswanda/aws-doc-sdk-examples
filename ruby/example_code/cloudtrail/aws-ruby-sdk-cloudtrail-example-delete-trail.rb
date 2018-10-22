@@ -2,10 +2,10 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Deletes a CloudTrail trail.]
 #snippet-keyword:[AWS CloudTrail]
-#snippet-keyword:[delete_trail function]
+#snippet-keyword:[delete_trail method]
 #snippet-keyword:[Ruby]
 #snippet-service:[cloudtrail]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #

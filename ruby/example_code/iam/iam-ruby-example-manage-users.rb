@@ -2,13 +2,13 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Lists your IAM users, creates an IAM user, updates the user's name, and deletes the user.]
 #snippet-keyword:[AWS Identity and Access Management]
-#snippet-keyword:[create_user function]
-#snippet-keyword:[delete_user function]
-#snippet-keyword:[list_users function]
-#snippet-keyword:[update_user function]
+#snippet-keyword:[create_user method]
+#snippet-keyword:[delete_user method]
+#snippet-keyword:[list_users method]
+#snippet-keyword:[update_user method]
 #snippet-keyword:[Ruby]
 #snippet-service:[iam]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #
