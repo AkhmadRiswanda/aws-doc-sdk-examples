@@ -1,7 +1,7 @@
 #snippet-comment:[These are tags for the AWS doc team's sample catalog. Do not remove.]
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Lists your RDS cluster snapshots.]
-#snippet-keyword:[Amazon RDS]
+#snippet-keyword:[Amazon Relational Database Service]
 #snippet-keyword:[db_clusters method]
 #snippet-keyword:[DBClusters.snapshots method]
 #snippet-keyword:[Ruby]

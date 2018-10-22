@@ -1,7 +1,7 @@
 #snippet-comment:[These are tags for the AWS doc team's sample catalog. Do not remove.]
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Lists the security groups for you RDS instances.]
-#snippet-keyword:[Amazon RDS]
+#snippet-keyword:[Amazon Relational Database Service]
 #snippet-keyword:[db_instances method]
 #snippet-keyword:[DBInstances.security_groups method]
 #snippet-keyword:[Ruby]

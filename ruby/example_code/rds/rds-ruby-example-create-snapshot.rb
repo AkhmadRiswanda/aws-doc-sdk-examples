@@ -1,7 +1,7 @@
 #snippet-comment:[These are tags for the AWS doc team's sample catalog. Do not remove.]
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Creates a snapshot of an RDS instance.]
-#snippet-keyword:[Amazon RDS]
+#snippet-keyword:[Amazon Relational Database Service]
 #snippet-keyword:[db_instance method]
 #snippet-keyword:[DBInstance.create_snapshot method]
 #snippet-keyword:[Ruby]
