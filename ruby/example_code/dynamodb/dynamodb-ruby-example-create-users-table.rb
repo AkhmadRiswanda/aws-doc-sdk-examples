@@ -2,11 +2,11 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Creates a DynamoDB table.]
 #snippet-keyword:[Amazon DynamoDB]
-#snippet-keyword:[create_table function]
-#snippet-keyword:[wait_until function]
+#snippet-keyword:[create_table method]
+#snippet-keyword:[wait_until method]
 #snippet-keyword:[Ruby]
 #snippet-service:[dynamodb]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #

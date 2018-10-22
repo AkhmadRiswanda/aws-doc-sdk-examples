@@ -2,7 +2,7 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Stops an EC2 instance.]
 #snippet-keyword:[Amazon Elastic Compute Cloud]
-#snippet-keyword:[instance function]
+#snippet-keyword:[instance method]
 #snippet-keyword:[Instance.stop]
 #snippet-keyword:[Ruby]
 #snippet-service:[ec2]

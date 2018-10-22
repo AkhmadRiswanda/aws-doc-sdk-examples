@@ -2,13 +2,13 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Lists your IAM users and their groups, policies, and access keys.]
 #snippet-keyword:[AWS Identity and Access Management]
-#snippet-keyword:[list_access_keys function]
-#snippet-keyword:[list_groups_for_user function]
-#snippet-keyword:[list_user_policies function]
-#snippet-keyword:[list_users function]
+#snippet-keyword:[list_access_keys method]
+#snippet-keyword:[list_groups_for_user method]
+#snippet-keyword:[list_user_policies method]
+#snippet-keyword:[list_users method]
 #snippet-keyword:[Ruby]
 #snippet-service:[iam]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #

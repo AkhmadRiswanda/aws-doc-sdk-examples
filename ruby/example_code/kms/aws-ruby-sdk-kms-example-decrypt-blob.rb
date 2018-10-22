@@ -2,7 +2,7 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Decrypts a string.]
 #snippet-keyword:[AWS Key Management Service]
-#snippet-keyword:[decrypt function]
+#snippet-keyword:[decrypt method]
 #snippet-keyword:[Ruby]
 #snippet-service:[kms]
 #snippet-sourcetype:[full-example]

@@ -2,12 +2,12 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Lists any aliases for an IAM account, creates an alias for an IAM account, and deletes the alias from an IAM account.]
 #snippet-keyword:[AWS Identity and Access Management]
-#snippet-keyword:[create_account_alias function]
-#snippet-keyword:[delete_account_alias function]
-#snippet-keyword:[list_account_aliases function]
+#snippet-keyword:[create_account_alias method]
+#snippet-keyword:[delete_account_alias method]
+#snippet-keyword:[list_account_aliases method]
 #snippet-keyword:[Ruby]
 #snippet-service:[iam]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #

@@ -2,10 +2,10 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Updates an item in a DynamoDB table.]
 #snippet-keyword:[Amazon DynamoDB]
-#snippet-keyword:[update_item function]
+#snippet-keyword:[update_item method]
 #snippet-keyword:[Ruby]
 #snippet-service:[dynamodb]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #

@@ -2,7 +2,7 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Re-encrypts data under a new customer master key (CMK).]
 #snippet-keyword:[AWS Key Management Service]
-#snippet-keyword:[re_encrypt function]
+#snippet-keyword:[re_encrypt method]
 #snippet-keyword:[Ruby]
 #snippet-service:[kms]
 #snippet-sourcetype:[full-example]

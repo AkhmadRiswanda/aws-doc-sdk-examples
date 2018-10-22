@@ -2,10 +2,10 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Creates a security group, adds rules to the security group, gets information about security groups, and deletes the security group.]
 #snippet-keyword:[Amazon Elastic Compute Cloud]
-#snippet-keyword:[authorize_security_group_ingress function]
-#snippet-keyword:[create_security_group function]
-#snippet-keyword:[delete_security_group function]
-#snippet-keyword:[describe_security_groups function]
+#snippet-keyword:[authorize_security_group_ingress method]
+#snippet-keyword:[create_security_group method]
+#snippet-keyword:[delete_security_group method]
+#snippet-keyword:[describe_security_groups method]
 #snippet-keyword:[Ruby]
 #snippet-service:[ec2]
 #snippet-sourcetype:[full-example]
@@ -79,9 +79,9 @@ end
 
 # Get information about your security groups.
 
-# This function gets information about an individual IP permission.
+# This method gets information about an individual IP permission.
 # The code is identical for calling ip_permissions and ip_permissions_egress later,
-#   so making a function out of it to reduce duplicated code.
+#   so making a method out of it to reduce duplicated code.
 def describe_ip_permission(ip_permission)
   puts "-" * 22
   puts "IP Protocol: #{ip_permission.ip_protocol}"

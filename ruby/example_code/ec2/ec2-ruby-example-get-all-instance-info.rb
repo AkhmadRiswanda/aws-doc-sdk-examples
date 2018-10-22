@@ -2,7 +2,7 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Lists the names and IDs of your EC2 instances.]
 #snippet-keyword:[Amazon Elastic Compute Cloud]
-#snippet-keyword:[instances function]
+#snippet-keyword:[instances method]
 #snippet-keyword:[Ruby]
 #snippet-service:[ec2]
 #snippet-sourcetype:[full-example]

@@ -2,7 +2,7 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Creates a 2048-bit RSA key pair.]
 #snippet-keyword:[Amazon Elastic Compute Cloud]
-#snippet-keyword:[create_key_pair function]
+#snippet-keyword:[create_key_pair method]
 #snippet-keyword:[Ruby]
 #snippet-service:[ec2]
 #snippet-sourcetype:[full-example]

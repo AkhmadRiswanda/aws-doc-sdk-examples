@@ -2,10 +2,10 @@
 #snippet-sourceauthor:[Doug-AWS]
 #snippet-sourcedescription:[Lists your Elastic Beanstalk solution stacks.]
 #snippet-keyword:[AWS Elastic Beanstalk]
-#snippet-keyword:[list_available_solution_stacks function]
+#snippet-keyword:[list_available_solution_stacks method]
 #snippet-keyword:[Ruby]
 #snippet-service:[elasticbeanstalk]
-#snippet-sourcetype:[full-example | snippet]
+#snippet-sourcetype:[full-example]
 #snippet-sourcedate:[2018-03-16]
 # Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 #
